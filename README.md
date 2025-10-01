@@ -28,9 +28,8 @@ A classical computer vision + path planning pipeline with OpenCV and A* algorith
 ---
 
 ## 📫 Connect with me
-- GitHub: [@WencanZhao](https://github.com/WencanZhao)  
-- LinkedIn: *（可以放你的 LinkedIn 链接）*  
-- Email: *（可以放邮箱）*  
+- GitHub: https://github.com/WencanZhao 
+- Email: wencanzhao0828@gmail.com
 
 ---
 ⭐️ From [WencanZhao](https://github.com/WencanZhao)
